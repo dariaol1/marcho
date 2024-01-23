@@ -9,6 +9,7 @@
   "author": "Oliinyk Daria",
   "license": "ISC",
   "devDependencies": {
+    "@fancyapps/fancybox": "^3.5.7",
     "browser-sync": "^3.0.2",
     "del": "^6.1.1",
     "gulp": "^4.0.2",
@@ -18,6 +19,7 @@
     "gulp-sass": "^5.1.0",
     "gulp-uglify": "^3.0.2",
     "jquery": "^3.7.1",
+    "rateyo": "^2.3.2",
     "sass": "^1.69.7",
     "slick-carousel": "^1.8.1"
   }
